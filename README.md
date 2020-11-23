@@ -11,8 +11,8 @@
 <br>
 
 **Languages/stack:**  
-<img align="left" alt="Discord" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/languages/php.png" />
-<img align="left" alt="Discord" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/languages/js.png" />
+<img align="left" alt="Discord" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/languages/php.svg" />
+<img align="left" alt="Discord" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/languages/js.svg" />
 <img align="left" alt="Discord" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/languages/go.png" />
 
 <br>
