@@ -18,3 +18,5 @@ I'm self-taught full-stack web developer and software engineer
 - Python
 
 ![Exhaled's github stats](https://github-readme-stats.vercel.app/api?username=exhaled&hide=contribs,prs&show_icons=true&count_private=true)
+
+[![Exhaled's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=exhaled)](https://github.com/anuraghazra/github-readme-stats)
