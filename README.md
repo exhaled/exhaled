@@ -1,21 +1,24 @@
 ## Welcome at my profile, I'm David 👋
-
-<a href="https://twitter.com/outbanned">
-  <img align="left" alt="Twitter" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/twitter.png" />
-</a>
-<a href="https://discord.gg/EHDAheKcQq">
-  <img align="left" alt="Discord" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/discord.png" />
-</a>
+I'm self-taught full-stack web developer and software engineer
 
 <br>
+
+**Reach me**  
+<a href="https://twitter.com/outbanned">
+  <img alt="Twitter" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/twitter.png" />
+</a>
+<a href="https://discord.gg/EHDAheKcQq">
+  <img alt="Discord" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/discord.png" />
+</a>
+
 <br>
 
 **Languages/stack:**  
-<img align="left" alt="Discord" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/languages/php.svg" />
-<img align="left" alt="Discord" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/languages/js.svg" />
-<img align="left" alt="Discord" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/languages/go.png" />
+- PHP
+- JavaScript
+- Golang
+- Python
 
 <br>
-<br>
 
-![Exhaled's github stats](https://github-readme-stats.vercel.app/api?username=exhaled&hide=contribs,prs&show_icons=true)
+![Exhaled's github stats](https://github-readme-stats.vercel.app/api?username=exhaled&hide=contribs,prs&show_icons=true&count_private=true)
