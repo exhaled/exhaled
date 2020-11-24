@@ -1,4 +1,4 @@
-## Welcome at my profile, I'm David 👋
+## Welcome to my profile, I'm David 👋
 I'm self-taught full-stack web developer and software engineer
 
 <a href="https://twitter.com/outbanned">
