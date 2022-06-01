@@ -11,7 +11,6 @@ Contact:
 </a>
 
 <br>
-<br>
 
 **Languages/stack:**  
 - PHP
