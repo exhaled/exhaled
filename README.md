@@ -2,6 +2,7 @@
 I'm self-taught full-stack web developer and software engineer
 
 Contact:
+<br>
 <a href="https://twitter.com/outbanned">
   <img alt="Twitter" width="24px" src="https://raw.githubusercontent.com/exhaled/exhaled/master/assets/twitter.png" />
 </a>
